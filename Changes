@@ -1,4 +1,6 @@
 Changelog for Perl module Catmandu::Importer::MWTemplates
 
 {{$NEXT}}
+
+0.01  2015-03-02 11:17:25 CET
     - first release
